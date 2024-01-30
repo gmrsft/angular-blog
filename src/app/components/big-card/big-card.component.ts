@@ -6,7 +6,7 @@ import { Component, Input, OnInit } from '@angular/core';
   styleUrls: ['./big-card.component.css']
 })
 export class BigCardComponent implements OnInit {
-
+/* Fazemos o input, para receber dados externos, além de atribuir o tipo da entrada */
   @Input()
   photoCover: string = ""
   @Input()

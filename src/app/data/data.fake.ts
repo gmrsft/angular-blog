@@ -12,3 +12,7 @@ export const dataFake = [
     "photoCover":"https://images.unsplash.com/photo-1704152282392-3cf7bdc2bce3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDl8Q0R3dXdYSkFiRXd8fGVufDB8fHx8fA%3D%3D"
   },
 ]
+
+
+
+/*baiscamenta faz a entrada de dados como se fosse um json ou banco de dados, esses dados estao integrade nosso content page (pagina 1 e 2 do exemplo) */
